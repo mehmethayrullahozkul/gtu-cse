@@ -1,0 +1,30 @@
+{
+    "id": "25262323662", 
+    "name": "os", 
+    "path": "os/", 
+    "last_modified": "2024-01-13.21:48:27", 
+    "size": "12", 
+    "parent": "", 
+    "type": "dir", 
+    "/": {
+        "42632314394": {
+            "id": "42632314394", 
+            "name": "hello.txt", 
+            "path": "os/hello.txt", 
+            "last_modified": "2024-01-13.21:56:25", 
+            "size": "12", 
+            "type": "regular", 
+            "content_file": "44235256262.txt", 
+            "extension": ".txt"
+        }, 
+        "hey": {
+            "id": "63355789376", 
+            "name": "hey", 
+            "path": "os/hey/", 
+            "last_modified": "2024-01-13.21:34:10", 
+            "size": "0", 
+            "type": "dir", 
+            "parent": "os/"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+search 111111
+sort "makeup"
+search "Kaplumbaga" in "year"
+lookup 22222
+search "Kaplumbaga" in "basak"
+sort "genre"
+search "Aslan" in "title"
+search "Kaplumbaga" in "dsdsada"

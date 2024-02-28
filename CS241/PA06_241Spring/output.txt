@@ -1,0 +1,27 @@
+Catalog Read: book
+Exception: given string has missing / excessing fields
+"The Neolithic Revolution in the Near East: Transforming the Human Landscape" "2011" "Social Science, Anthropology, Cultural, General, Archaeology"
+Exception: given string is empty or too long
+"The Neolithic Revolution in the Near East: Transforming the Human Landscape" "" "" "Archaeology"
+Exception: given string has missing / excessing fields
+"The Neolithic Revolution in the Near East: Transforming the Human Landscape"
+Exception: given string is empty or too long
+"Learning Flask" "" "2015" "Computers, Programming Languages, Python, Internet, Application Development, Web, Web Programming"
+Exception: duplicate entry 
+"Hilbert Spaces With Applications" "Lokenath Debnathl, Piotr Mikusinski" "2005" "Mathematics,  Set Theory"
+Exception: duplicate entry 
+"Hilbert Spaces With Applications" "Lokenath Debnathl, Piotr Mikusinski" "" "Set Theory"
+
+Unique entries found: 2
+"The Neolithic Revolution in the Near East: Transforming the Human Landscape" "Alan H. Simmons" "2011" "Social Science, Anthropology, Cultural, General, Archaeology"
+"Learning Flask Framework" "Matt Copperwaite, Charles Leifer" "2015" "Computers, Programming Languages, Python, Internet, Application Development, Web, Web Programming"
+search "Web" in "tags"
+search "East" in "title"
+sort "year"
+Exception: command is wrong 
+search "Applications" in "tittle"
+
+Unique commands found : 3
+search "Web" in "tags"
+search "East" in "title"
+sort "year"

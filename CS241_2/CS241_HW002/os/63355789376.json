@@ -1,0 +1,21 @@
+{
+    "id": "63355789376", 
+    "name": "hey", 
+    "path": "os/hey/", 
+    "last_modified": "2024-01-13.21:34:10", 
+    "size": "12", 
+    "parent": "", 
+    "type": "dir", 
+    "/": {
+        "97211194477": {
+            "id": "97211194477", 
+            "name": "hello2.txt", 
+            "path": "os/hey/hello2.txt", 
+            "last_modified": "2024-01-13.23:21:22", 
+            "size": "12", 
+            "type": "regular", 
+            "content_file": "37746963773.txt", 
+            "extension": ".txt"
+        }
+    }
+}
